@@ -1,7 +1,7 @@
 name = "shrtnr"
 type = "javascript"
 
-account_id = "e14613eeee003ce97f09c134e0316e48"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
